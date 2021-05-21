@@ -1,4 +1,8 @@
 
+**29 September 2020**
+[The Micro Solar Flare Apparatus (MiSolFA) and High-energy Solar Observations from Multiple Perspectives (PhD thesis defense talk)](https://elastufka.github.io/presentations/The%20Micro%20Solar%20Flare%20Apparatus%20(MiSolFA)%20and%20High-energy%20Solar%20Observations%20From%20Multiple%20Perspectives.html#/)
+
+
 **9 March 2021**
 [SKA SDC2 Truth Catalog Exploration & De-Noising Attemps](https://elastufka.github.io/presentations/SKA%20Data%20Challenge%202.slides.html#/)
 
