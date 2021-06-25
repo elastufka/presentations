@@ -13,4 +13,6 @@
 **11 May 2021**
 [AIA + XRT + NuSTAR DEM](https://elastufka.github.io/presentations/AIA+XRT+NuSTAR%20DEM.slides.html#/)
 
+**25 June 2021**
+[Joint DEM 12-Sept-2021 (orbit 6)](https://elastufka.github.io/presentations/Joint%20DEM%20(orbit%206).slides.html#/)
 
