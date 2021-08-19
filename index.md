@@ -20,3 +20,7 @@
 **3 August 2021**
 [Joint DEM 12-Sept-2021 (orbit 8) updated](https://elastufka.github.io/presentations/Joint%20DEM%20(orbit%208).slides_updated.html#/)
 using NuSTAR counts from spectrum files and including contribution functions
+
+**19 August 2021**
+[pyXspec fit comparisons with NuSTAR orbit 8 data](https://elastufka.github.io/presentations/NuSTAR_specfits_compare.slides.html#/)
+with fixed T but EM allowed to vary, how does this compare to best fit result?
