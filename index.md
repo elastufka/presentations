@@ -26,5 +26,5 @@ using NuSTAR counts from spectrum files and including contribution functions
 with fixed T but EM allowed to vary, how does this compare to best fit result?
 
 **28 September 2021**
-[CFL, Back Projection, and AIA Flare Location Comparison - visualization](https://elastufka.github.io/presentations/CFL,%20Back%20Projection,%20and%20AIA%20Flare%20Location%20Comparison%20-%20visualization.slides.slides.html#/)
+[CFL, Back Projection, and AIA Flare Location Comparison - visualization](https://elastufka.github.io/presentations/CFL,%20Back%20Projection,%20and%20AIA%20Flare%20Location%20Comparison%20-%20visualization.slides.html#/)
 
