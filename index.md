@@ -24,3 +24,7 @@ using NuSTAR counts from spectrum files and including contribution functions
 **19 August 2021**
 [pyXspec fit comparisons with NuSTAR orbit 8 data](https://elastufka.github.io/presentations/NuSTAR_specfits_compare.slides.html#/)
 with fixed T but EM allowed to vary, how does this compare to best fit result?
+
+**28 September 2021**
+[CFL, Back Projection, and AIA Flare Location Comparison - visualization](https://elastufka.github.io/presentations/CFL,%20Back%20Projection,%20and%20AIA%20Flare%20Location%20Comparison%20-%20visualization.slides.slides.html#/)
+
