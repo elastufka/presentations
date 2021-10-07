@@ -8,6 +8,9 @@
 **9 April 2021**
 [NuSTAR temperature and loci curves](https://elastufka.github.io/presentations/NuSTAR%20temperature%20response%20and%20loci%20curves.slides.html#/)
 
+**27 April 2021**
+[The Sun in Data (Zurich WiMLDS event)](https://elastufka.github.io/presentations/The%20Sun%20in%20Data.slides.html#/)
+
 **11 May 2021**
 [AIA + XRT + NuSTAR DEM](https://elastufka.github.io/presentations/AIA+XRT+NuSTAR%20DEM.slides.html#/)
 
