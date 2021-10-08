@@ -1,6 +1,8 @@
 
 **29 September 2020**
-[The Micro Solar Flare Apparatus (MiSolFA) and High-energy Solar Observations from Multiple Perspectives (PhD thesis defense talk)](https://elastufka.github.io/presentations/The%20Micro%20Solar%20Flare%20Apparatus%20(MiSolFA)%20and%20High-energy%20Solar%20Observations%20From%20Multiple%20Perspectives.html#/)
+[The Micro Solar Flare Apparatus (MiSolFA) and High-energy Solar Observations from Multiple Perspectives ](https://elastufka.github.io/presentations/The%20Micro%20Solar%20Flare%20Apparatus%20(MiSolFA)%20and%20High-energy%20Solar%20Observations%20From%20Multiple%20Perspectives.html#/)
+
+PhD thesis defense talk
 
 **9 March 2021**
 [SKA SDC2 Truth Catalog Exploration & De-Noising Attemps](https://elastufka.github.io/presentations/SKA%20Data%20Challenge%202.slides.html#/)
@@ -9,7 +11,9 @@
 [NuSTAR temperature and loci curves](https://elastufka.github.io/presentations/NuSTAR%20temperature%20response%20and%20loci%20curves.slides.html#/)
 
 **27 April 2021**
-[The Sun in Data (Zurich WiMLDS event)](https://elastufka.github.io/presentations/The%20Sun%20in%20Data.slides.html#/)
+[The Sun in Data](https://elastufka.github.io/presentations/The%20Sun%20in%20Data.slides.html#/)
+
+ Zurich WiMLDS event public talk
 
 **11 May 2021**
 [AIA + XRT + NuSTAR DEM](https://elastufka.github.io/presentations/AIA+XRT+NuSTAR%20DEM.slides.html#/)
@@ -22,10 +26,12 @@
 
 **3 August 2021**
 [Joint DEM 12-Sept-2021 (orbit 8) updated](https://elastufka.github.io/presentations/Joint%20DEM%20(orbit%208).slides_updated.html#/)
+
 using NuSTAR counts from spectrum files and including contribution functions
 
 **19 August 2021**
 [pyXspec fit comparisons with NuSTAR orbit 8 data](https://elastufka.github.io/presentations/NuSTAR_specfits_compare.slides.html#/)
+
 with fixed T but EM allowed to vary, how does this compare to best fit result?
 
 **28 September 2021**
