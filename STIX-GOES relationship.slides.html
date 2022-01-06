@@ -17693,6 +17693,202 @@ div.jp-OutputPrompt {
 <br></p>
 
 </div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>_id</th>
+      <th>peak_counts</th>
+      <th>peak_utc</th>
+      <th>flare_id</th>
+      <th>total_signal_counts</th>
+      <th>duration</th>
+      <th>start_unix</th>
+      <th>end_unix</th>
+      <th>goes</th>
+      <th>peak_utc_corrected</th>
+      <th>...</th>
+      <th>rotated_y_arcsec</th>
+      <th>rotated_lon_deg</th>
+      <th>rotated_lat_deg</th>
+      <th>rotated_x_px</th>
+      <th>rotated_y_px</th>
+      <th>visible_from_SOLO</th>
+      <th>date_obs</th>
+      <th>STIX_AIA_timedelta</th>
+      <th>STIX_AIA_timedelta_abs</th>
+      <th>log_GOES_flux_fit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>3459</td>
+      <td>311.533333</td>
+      <td>2022-01-04 17:21:24.121</td>
+      <td>2201041721</td>
+      <td>2176.0</td>
+      <td>444</td>
+      <td>1.641317e+09</td>
+      <td>1.641317e+09</td>
+      <td>{'class': 'B2.2'}</td>
+      <td>2022-01-04 17:29:37.016</td>
+      <td>...</td>
+      <td>-527.383511</td>
+      <td>-72.969750</td>
+      <td>-48.875232</td>
+      <td>1260.123079</td>
+      <td>1520.111498</td>
+      <td>1.0</td>
+      <td>2022-01-04 17:29:37.016</td>
+      <td>0 days 00:08:37.016000</td>
+      <td>0 days 00:08:37.016000</td>
+      <td>-6.538393</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>3458</td>
+      <td>295.000000</td>
+      <td>2022-01-04 16:34:04.116</td>
+      <td>2201041634</td>
+      <td>1488.0</td>
+      <td>492</td>
+      <td>1.641314e+09</td>
+      <td>1.641314e+09</td>
+      <td>{'class': 'B1.9'}</td>
+      <td>2022-01-04 16:42:17.058</td>
+      <td>...</td>
+      <td>-527.340714</td>
+      <td>-72.973188</td>
+      <td>-48.875932</td>
+      <td>1260.161156</td>
+      <td>1520.154295</td>
+      <td>1.0</td>
+      <td>2022-01-04 16:42:17.058</td>
+      <td>0 days 00:08:17.058000</td>
+      <td>0 days 00:08:17.058000</td>
+      <td>-6.553696</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>3457</td>
+      <td>320.066667</td>
+      <td>2022-01-04 09:12:48.071</td>
+      <td>2201040912</td>
+      <td>6568.0</td>
+      <td>2132</td>
+      <td>1.641287e+09</td>
+      <td>1.641289e+09</td>
+      <td>{'class': 'B2.7'}</td>
+      <td>2022-01-04 09:21:01.448</td>
+      <td>...</td>
+      <td>-498.175491</td>
+      <td>-74.616445</td>
+      <td>-46.213510</td>
+      <td>1243.140567</td>
+      <td>1549.319752</td>
+      <td>1.0</td>
+      <td>2022-01-04 09:21:01.448</td>
+      <td>0 days 00:07:01.448000</td>
+      <td>0 days 00:07:01.448000</td>
+      <td>-6.530810</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>3456</td>
+      <td>296.600000</td>
+      <td>2022-01-04 05:33:32.049</td>
+      <td>2201040533</td>
+      <td>4432.0</td>
+      <td>1600</td>
+      <td>1.641273e+09</td>
+      <td>1.641275e+09</td>
+      <td>{'class': 'B3.1'}</td>
+      <td>2022-01-04 05:41:45.639</td>
+      <td>...</td>
+      <td>-540.889331</td>
+      <td>-72.180512</td>
+      <td>-50.197580</td>
+      <td>1269.736337</td>
+      <td>1506.605584</td>
+      <td>1.0</td>
+      <td>2022-01-04 05:41:45.639</td>
+      <td>0 days 00:05:45.639000</td>
+      <td>0 days 00:05:45.639000</td>
+      <td>-6.552178</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>3455</td>
+      <td>399.000000</td>
+      <td>2022-01-03 23:16:12.010</td>
+      <td>2201032316</td>
+      <td>14688.0</td>
+      <td>660</td>
+      <td>1.641252e+09</td>
+      <td>1.641252e+09</td>
+      <td>{'class': 'B6.3'}</td>
+      <td>2022-01-03 23:24:25.963</td>
+      <td>...</td>
+      <td>-497.687427</td>
+      <td>-74.659760</td>
+      <td>-46.222171</td>
+      <td>1243.612787</td>
+      <td>1549.807828</td>
+      <td>1.0</td>
+      <td>2022-01-03 23:24:25.963</td>
+      <td>0 days 00:07:25.963000</td>
+      <td>0 days 00:07:25.963000</td>
+      <td>-6.468953</td>
+    </tr>
+  </tbody>
+</table>
+<p>5 rows × 45 columns</p>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 </div></div></section></section><section><section>
 <div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="Flare-property-distributions">Flare property distributions<a class="anchor-link" href="#Flare-property-distributions">&#182;</a></h2>
@@ -18315,6 +18511,126 @@ if (outputEl) {{
      </div>
 </div>
 </div>
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span> 
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">peak_utc</span><span class="o">.</span><span class="n">min</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+
+
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
+<pre>Timestamp(&#39;2021-04-24 01:19:51.811000&#39;)</pre>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">exec</span><span class="p">(</span><span class="nb">open</span><span class="p">(</span><span class="s1">&#39;code/STIX_GOES/stix_hek_data.py&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">test</span><span class="o">=</span><span class="n">STIX_GOES_fit</span><span class="p">(</span><span class="n">dfgc</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">test</span><span class="o">.</span><span class="vm">__dict__</span><span class="p">,</span><span class="n">index</span><span class="o">=</span><span class="p">[</span><span class="n">test</span><span class="o">.</span><span class="n">timestamp</span><span class="p">])</span><span class="o">.</span><span class="n">to_json</span><span class="p">(</span><span class="s1">&#39;fit_result.json&#39;</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">dt</span><span class="o">.</span><span class="n">now</span><span class="p">()</span><span class="o">.</span><span class="n">date</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+
+
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
+<pre>datetime.date(2022, 1, 6)</pre>
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
